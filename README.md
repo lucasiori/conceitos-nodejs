@@ -68,7 +68,7 @@
 
 <h2 id="rotas-aplicacao">🔀 Rotas da aplicação</h2>
 
-<h3>GET</h3>
+<h3>🔵 GET</h3>
 
 <p>
   <strong>Rota:</strong> /repositories <br />
@@ -77,7 +77,7 @@
 
 <br />
 
-<h3>POST</h3>
+<h3>🟢 POST</h3>
 
 <p>
   <strong>Rota:</strong> /repositories <br />
@@ -99,7 +99,7 @@
 
 <br />
 
-<h3>PUT</h3>
+<h3>🟡 PUT</h3>
 
 <p>
   <strong>Rota:</strong> /repositories/:id_repositorio <br />
@@ -116,7 +116,7 @@
 
 <br />
 
-<h3>DELETE</h3>
+<h3>🔴 DELETE</h3>
 
 <p>
   <strong>Rota:</strong> /repositories/:id_repositorio <br />
